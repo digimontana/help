@@ -1,7 +1,7 @@
-#Github
-1.Step add
-2.Step commit
-3.Step push
+# Github
+- add
+- commit
+- push
 
 Checking status of git
 ```
