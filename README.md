@@ -1,7 +1,7 @@
 # HELP SECTION
 
 <details>
-    <summar>Github</summary> 
+    <summary>Github</summary> 
      - add
      - commit
      - push
@@ -9,7 +9,7 @@
     Checking status of git
         ```
         git status
-         ```
+        ```
     Commit File
         ```
         git commit -m "Max 50 characters"
