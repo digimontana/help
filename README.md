@@ -25,3 +25,10 @@ Get changed files to local
 ```
 git pull origin master
 ```
+    # Python
+
+    Dictionaries
+
+    ```
+    input = {"key" : "Values"}
+    ```
